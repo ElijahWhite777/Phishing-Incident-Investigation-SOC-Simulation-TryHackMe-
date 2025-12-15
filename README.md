@@ -86,7 +86,7 @@ This mirrors how phishing incidents are handled in enterprise SOC environments.
 ---
 
 ### 3️⃣ URL & Payload Analysis  
-**MITRE:** T1566.002 – phishing Link  
+**MITRE:** T1566 – phishing Link  
 **NIST:** DE.AE – Anomalous Activity
 
 - Extracted embedded URLs from the email body
